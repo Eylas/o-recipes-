@@ -1,2 +1,2 @@
-# o-recipes-
+# odin-recipes
 test_site
